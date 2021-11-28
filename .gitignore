@@ -1,5 +1,4 @@
 .vscode
 /vendor
-public/index.php
 .env
 .idea
