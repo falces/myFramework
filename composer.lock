@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "85b3541ef5bd05135fc132629e700f8f",
+    "content-hash": "6d5d04c7dfaf60b1d7c95a141c1fda93",
     "packages": [
         {
             "name": "falces/envloader",
-            "version": "1.0.2",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/falces/EnvLoader.git",
-                "reference": "48851f3bbfd857a363b0baf4912d2db3be869573"
+                "reference": "0909941ef69ba91a73db3f55892977be83d036ec"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/falces/EnvLoader/zipball/48851f3bbfd857a363b0baf4912d2db3be869573",
-                "reference": "48851f3bbfd857a363b0baf4912d2db3be869573",
+                "url": "https://api.github.com/repos/falces/EnvLoader/zipball/0909941ef69ba91a73db3f55892977be83d036ec",
+                "reference": "0909941ef69ba91a73db3f55892977be83d036ec",
                 "shasum": ""
             },
             "require-dev": {
@@ -43,10 +43,10 @@
                 "falces"
             ],
             "support": {
-                "source": "https://github.com/falces/EnvLoader/tree/1.0.2",
+                "source": "https://github.com/falces/EnvLoader/tree/1.1.0",
                 "issues": "https://github.com/falces/EnvLoader/issues"
             },
-            "time": "2021-11-28T18:14:26+00:00"
+            "time": "2021-11-30T09:48:00+00:00"
         }
     ],
     "packages-dev": [

@@ -16,7 +16,7 @@
         "behat/behat": "^3.7"
     },
     "require": {
-        "falces/envloader": "^1.0"
+        "falces/envloader": "^1.1"
     },
     "repositories":[
         {
