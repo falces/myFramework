@@ -1,5 +1,19 @@
 <?php
-require dirname(__DIR__).'/vendor/autoload.php';
+/**
+ * Dummy training
+ *
+ * PHP version 7.4
+ *
+ * LICENSE: CC Attribution 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+ *
+ * @category Training
+ * @package  ControTrainingller
+ * @author   Javier Rodríguez <falces@gmail.com>
+ * @license  CC Attribution 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+ * @link     https://github.com/falces/myFramework
+ */
+
+ require dirname(__DIR__).'/vendor/autoload.php';
 
 use App\Controllers\User;
 use Falces\DotEnvLoader;
